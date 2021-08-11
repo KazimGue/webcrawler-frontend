@@ -7002,9 +7002,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8244,6 +8244,11 @@ react-scripts@3.1.1:
     workbox-webpack-plugin "4.3.1"
   optionalDependencies:
     fsevents "2.0.7"
+
+react-sticky-footer@0.1.0-rc3:
+  version "0.1.0-rc3"
+  resolved "https://registry.yarnpkg.com/react-sticky-footer/-/react-sticky-footer-0.1.0-rc3.tgz#47137e332cafcf49a48561894aa410cca683b3af"
+  integrity sha512-FKXTCQxLoRhSC0ReEbpE52jqzMcLSYcSJjPQrx8spDGBDp3IWiyo7c1Slibsut4UmHLWG6UUA1sUCDmSAFU43Q==
 
 react-transition-group@^4.0.0:
   version "4.2.2"
